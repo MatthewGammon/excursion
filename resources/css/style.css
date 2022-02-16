@@ -23,15 +23,23 @@ body {
   color: aquamarine;
 }
 
-#about h3 {
-  font-size: 2.675rem;
+#about h2,
+#coming-soon h2 {
+  font-size: 2.625rem;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-weight: 300;
   color: white;
 }
 
 #about p {
-  font-size: 1.325rem;
+  font-size: 1.3125rem;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: gray;
+}
+
+.copyright {
+  text-align: right;
+  font-size: 1.3125rem;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   color: gray;
 }
