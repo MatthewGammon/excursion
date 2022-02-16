@@ -7,7 +7,7 @@ body {
   text-align: center;
 }
 
-.main-header h1 {
+#landing h1 {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-weight: normal;
   font-size: 3.125rem;
@@ -21,4 +21,17 @@ body {
 
 .download-link a:visited {
   color: aquamarine;
+}
+
+#about h3 {
+  font-size: 2.675rem;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 300;
+  color: white;
+}
+
+#about p {
+  font-size: 1.325rem;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: gray;
 }
