@@ -1,17 +1,14 @@
 body {
   background-color: black;
   min-height: 100vh;
-}
-
-.main-content {
   text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: white;
 }
 
 #landing h1 {
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-weight: normal;
   font-size: 3.125rem;
-  color: white;
 }
 
 .download-link {
@@ -26,20 +23,16 @@ body {
 #about h2,
 #coming-soon h2 {
   font-size: 2.625rem;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-weight: 300;
-  color: white;
 }
 
 #about p {
   font-size: 1.3125rem;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
   color: gray;
 }
 
-.copyright {
+footer {
   text-align: right;
   font-size: 1.3125rem;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
   color: gray;
 }
